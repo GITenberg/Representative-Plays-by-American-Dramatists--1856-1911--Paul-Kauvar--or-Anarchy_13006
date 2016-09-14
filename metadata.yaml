@@ -1,0 +1,36 @@
+_repo: Representative-Plays-by-American-Dramatists--1856-1911--Paul-Kauvar--or-Anarchy_13006
+_version: 0.0.1
+creator:
+  author:
+    agent_name: MacKaye, Steele
+    aliases:
+    - MacKaye, James Steele
+    - MacKaye, J. Steele (James Steele)
+    - MacKaye, James Morrison Steele
+    birthdate: 1842
+    deathdate: 1894
+    gutenberg_agent_id: '4773'
+    url: http://www.gutenberg.org/2009/agents/4773
+    wikipedia: http://en.wikipedia.org/wiki/Steele_MacKaye
+  editor:
+    agent_name: Moses, Montrose Jonas
+    alias: Moses, Montrose J.
+    birthdate: 1878
+    deathdate: 1934
+    gutenberg_agent_id: '4192'
+    url: http://www.gutenberg.org/2009/agents/4192
+description: ''
+gutenberg_issued: '2004-07-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13006'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American drama'
+- !lcc 'PS'
+- GITenberg
+title: 'Representative Plays by American Dramatists: 1856-1911: Paul Kauvar; or, Anarchy'
+url: http://www.gutenberg.org/ebooks/13006
