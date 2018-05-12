@@ -1,5 +1,8 @@
 _repo: Representative-Plays-by-American-Dramatists--1856-1911--Paul-Kauvar--or-Anarchy_13006
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: MacKaye, Steele
@@ -20,6 +23,8 @@ creator:
     gutenberg_agent_id: '4192'
     url: http://www.gutenberg.org/2009/agents/4192
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13006#Representative-Plays-by-American-Dramatists--1856-1911--Paul-Kauvar--or-Anarchy
 gutenberg_issued: '2004-07-23'
 gutenberg_type: Text
 identifiers:
